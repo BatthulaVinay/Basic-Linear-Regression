@@ -1,4 +1,3 @@
-# Basic-Linear-Regression
 # Basic Linear Regression
 
 ## Overview
