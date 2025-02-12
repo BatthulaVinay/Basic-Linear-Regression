@@ -19,7 +19,7 @@ The dataset consists of 300 samples with two columns:
 To run this project, install the following dependencies:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+pip install numpy pandas matplotlib sci-kit-learn
 ```
 
 ## Usage
