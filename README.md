@@ -45,6 +45,3 @@ This project is open-source and available under the MIT License.
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## 📞 Contact
-For any questions, feel free to reach out via [your-email@example.com] or open an issue in the repository.
-
