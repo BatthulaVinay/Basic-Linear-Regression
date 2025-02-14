@@ -1,48 +1,50 @@
 # Basic Linear Regression
 
-## Overview
-This project demonstrates **Basic Linear Regression** using Python. The notebook includes dataset loading, exploratory data analysis, model training, evaluation, and visualization of results.
+## 📌 Overview
+This repository contains a Jupyter Notebook demonstrating a basic implementation of linear regression. It covers data preprocessing, model training, and evaluation using Python and popular data science libraries.
 
-## Features
-- Data Preprocessing
+## 🏗 Features
 - Exploratory Data Analysis (EDA)
-- Training a Linear Regression Model
-- Model Evaluation
-- Data Visualization
+- Data preprocessing
+- Implementation of Linear Regression using Scikit-learn
+- Model evaluation using metrics like MSE and R-squared
+- Visualization of regression results
 
-## Dataset
-The dataset consists of 300 samples with two columns:
-- `X`: Independent variable (integer values)
-- `Y`: Dependent variable (float values, following a linear trend with some noise)
+## 📂 Files
+- **Basic Linear Regression.ipynb**: Jupyter Notebook containing the complete implementation.
 
-## Requirements
-To run this project, install the following dependencies:
-
+## 🛠 Requirements
+Ensure you have the following libraries installed before running the notebook:
 ```bash
-pip install numpy pandas matplotlib sci-kit-learn
+pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
-## Usage
-Clone the repository and run the Jupyter Notebook:
+## 🚀 Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd repository-name
+   ```
+3. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook "Basic Linear Regression.ipynb"
+   ```
+4. Run the notebook cell by cell to see the results.
 
-```bash
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name
-jupyter notebook "Basic Linear Regression.ipynb"
-```
+## 📊 Results
+- Scatter plot of data points
+- Regression line visualization
+- Model performance metrics
 
-## Results
-- The model fits a linear function to the data.
-- The regression line is plotted against actual data.
-- Predictions and residual analysis help assess the model's accuracy.
+## 📜 License
+This project is open-source and available under the MIT License.
 
-## Visualization
-The notebook generates a scatter plot of actual vs. predicted values and displays the fitted regression line.
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## Contributing
-Feel free to fork this repository and improve the implementation. Pull requests are welcome!
-
-## License
-This project is licensed under the MIT License.
-
+## 📞 Contact
+For any questions, feel free to reach out via [your-email@example.com] or open an issue in the repository.
 
